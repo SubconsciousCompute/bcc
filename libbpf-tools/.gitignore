@@ -22,6 +22,7 @@
 /funclatency
 /gethostlatency
 /hardirqs
+/ksnoop
 /llcstat
 /nfsdist
 /nfsslower
@@ -39,6 +40,7 @@
 /syscount
 /tcpconnect
 /tcpconnlat
+/tcprtt
 /vfsstat
 /xfsdist
 /xfsslower
